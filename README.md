@@ -3,13 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<< HEAD
-    <title>Avaliação Prática</title>
-    <link rel="stylesheet" href="styles.css">
-=======
-    
->>>>>>> e01700fbd66d63db65b55ca1bb087a2ecad3456a
-</head>
 <body>
     <div>
         <h1>Projeto Hospital</h1>

@@ -24,9 +24,6 @@
         <ul>
             <li>
                 <strong> https://www.youtube.com/watch?v=7fEjG4VSXJc</strong>
-                
-            </li>
-            </ul>
     </div>
 </body>
 </html>

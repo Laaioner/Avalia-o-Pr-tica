@@ -22,8 +22,8 @@
         </ul>
         
         <h2>Apresentação no YouTube</h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/7fEjG4VSXJc" 
-                title="Apresentação do Projeto Hospital" frameborder="0" allowfullscreen></iframe>
+       src="https://www.youtube.com/embed/7fEjG4VSXJc" 
+                title="Apresentação do Projeto Hospital" 
     </div>
 </body>
 </html>

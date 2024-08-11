@@ -1,7 +1,7 @@
-from singleton import GerenciadorRegistrosMedicos
-from builder import ConstrutorRelatorioMedico
-from adapter import SistemaMonitoramentoAntigo, SistemaMonitoramentoNovo, AdaptadorMonitoramento
-from strategy import EstrategiaMedicacao, EstrategiaCirurgia, EstrategiaFisioterapia, ContextoTratamento
+from src.singleton import GerenciadorRegistrosMedicos
+from src.builder import ConstrutorRelatorioMedico
+from src.adapter import SistemaMonitoramentoAntigo, SistemaMonitoramentoNovo, AdaptadorMonitoramento
+from src.strategy import EstrategiaMedicacao, EstrategiaCirurgia, EstrategiaFisioterapia, ContextoTratamento
 
 def main():
     # Singleton: Gerenciador de Registros Médicos

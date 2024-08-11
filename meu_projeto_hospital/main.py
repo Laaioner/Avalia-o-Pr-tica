@@ -44,7 +44,7 @@ def main():
     print(contexto.executar_tratamento(paciente))  # Saída: Tratando João da Silva com medicação.
 
     contexto = ContextoTratamento(EstrategiaFisioterapia())
-    print(contexto.executar_tratamento(paciente))  # Saída: Tratando João da Silva com fisioterapia.
+    print(contexto.executar_tratamento(paciente))  # Saída: Tratando João da Silva com  a fisioterapia.
 
 if __name__ == "__main__":
     main()

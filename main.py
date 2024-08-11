@@ -15,7 +15,7 @@ if __name__ == "__main__":
     patient1 = Patient("Alice")
     hospital.add_patient(patient1)
 
-    patient2 = Patient("Bob")
+    patient2 = Patient("Bobbs")
     hospital.add_patient(patient2)
 
     # Listar pacientes

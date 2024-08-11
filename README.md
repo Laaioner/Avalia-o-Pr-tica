@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Hospital</title>
 </head>
 <body>
     <div>
@@ -21,8 +22,8 @@
         </ul>
         
         <h2>Apresentação no YouTube</h2>
-        <iframe src="https://www.youtube.com/embed/7fEjG4VSXJc" 
-                width="560" height="315" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7fEjG4VSXJc" 
+                title="Apresentação do Projeto Hospital" frameborder="0" allowfullscreen></iframe>
     </div>
 </body>
 </html>

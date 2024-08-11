@@ -1,1 +1,1 @@
-# Avalia-o-Pr-tica
+Avaliação pratica

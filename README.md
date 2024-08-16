@@ -9,7 +9,7 @@
         <h2>Integrantes:</h2>
         <ul>
             <li>
-                <strong>Lucas De Liz Pereira</strong> - 202210503307
+                <strong>Lucas De Liz</strong> - 202210503307
             </li>
             <li>
                 <strong>Joshua Maciel Leite Pereira</strong> - 202120602551
